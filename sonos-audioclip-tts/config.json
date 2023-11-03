@@ -20,4 +20,5 @@
   "ports": {
      "8349/tcp": 8349
    }
+  "host_pid": true
 }
